@@ -1,17 +1,13 @@
-import React, {Component} from 'react';
+import React from 'react';
 
 import './App.css';
-import MealItem from "./components/getList";
+import MealList from "./components/getList";
 
-class App extends Component{
-
-    render() {
-
-      return (
+function App() {
+    return (
         <div className="App">
-            <MealItem />
+            <MealList />
         </div>
-      );
-    }
+    );
 }
 export default App;
