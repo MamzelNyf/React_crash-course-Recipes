@@ -8,13 +8,13 @@ Api Link: https://www.themealdb.com/api.php
 * https://create-react-app.dev/docs/adding-typescript
 * https://github.com/axios/axios
 * https://react-select.com/home 
-
+```
 Component Libraries 
 https://react.foundation/
 https://react.semantic-ui.com/
 https://material-ui.com
-
-
+```
+### Dev 
 **Stage 1:**
 - Search Page
 - Search recipes by name
