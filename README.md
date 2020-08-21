@@ -4,12 +4,11 @@
 
 ### Links
 Api Link: https://www.themealdb.com/api.php
-'''
-https://create-react-app.dev/
-https://create-react-app.dev/docs/adding-typescript
-https://github.com/axios/axios
-https://react-select.com/home 
-'''
+* https://create-react-app.dev/
+* https://create-react-app.dev/docs/adding-typescript
+* https://github.com/axios/axios
+* https://react-select.com/home 
+
 Component Libraries 
 https://react.foundation/
 https://react.semantic-ui.com/
